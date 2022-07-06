@@ -1,5 +1,6 @@
 package com.petmaps.consola;
 
+<<<<<<< HEAD
 import com.petmaps.consola.models.Inicio;
 
 public class Main {
@@ -7,4 +8,3 @@ public class Main {
         Inicio incio=new Inicio();
         incio.Primermenu();
     }
-}

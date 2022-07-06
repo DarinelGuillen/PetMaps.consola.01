@@ -11,6 +11,10 @@ public class AddCatalagoAll {
         return true;
     }
     //(AgregarCentrosPredeterminado) centros contiene mascotas
+    public boolean AgregarMascotasCentros(){
+
+        return  true;
+    }
     public boolean AgregarMascotasPredeteminado(){
 
         return true;
